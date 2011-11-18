@@ -91,7 +91,7 @@ class Application_Service_Migration
             $this->_db->query("DROP TABLE IF EXISTS `$this->_tableName`;
                 CREATE TABLE IF NOT EXISTS `$this->_tableName` (
                   `version` varchar(20) NOT NULL DEFAULT ''
-                ) ENGINE=InnoDB DEFAULT CHARSET=utf8;");
+                ) ENGINE=InnoDB DEFAULT CHARSET=utf8");
             return $this->getVer();
         }
     }
