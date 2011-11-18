@@ -5,6 +5,7 @@
  *
  * @author Aleksandr Gornostal <info@sanya.pp.ua>
  * @license http://sam.zoy.org/wtfpl/COPYING WTFPL V2
+ * @link https://github.com/sanya-gornostal/Zend-Migration
  */
 class Application_Service_Migration
 {
