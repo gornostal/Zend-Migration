@@ -1,6 +1,6 @@
 ## Overview
 
-Using this coee you can make your application do automatic upgrades of database schema.
+Using this code you can make your application do automatic upgrades of database schema.
 
 ## Install
 
